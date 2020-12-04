@@ -8,8 +8,8 @@
       "3",
       "leecher"
     ],
-    "website": "https://github.com/azamaulanaaa/botkaca",
-    "repository": "https://github.com/azamaulanaaa/botkaca",
+    "channel": "https://t.me/filmsanstrends",
+    "repository": "https://t.me/filmsanstrends_Owner",
     "env": {
       "API_ID": {
         "description": "get this value from https://my.telegram.org",
